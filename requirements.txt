@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+joblib
+pytest
+dvc[gs]
+google-cloud-storage
+mlflow
